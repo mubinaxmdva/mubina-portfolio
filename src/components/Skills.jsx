@@ -13,7 +13,7 @@ const skillGroups = [
       { name: "JavaScript", level: 80 },
       { name: "HTML5", level: 90 },
       { name: "CSS3", level: 85 },
-      { name: "TypeScript", level: 55 },
+      { name: "TypeScript", level: 10 },
     ],
   },
   {
